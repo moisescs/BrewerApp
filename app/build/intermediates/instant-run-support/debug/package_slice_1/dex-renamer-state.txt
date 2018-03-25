@@ -1,0 +1,4 @@
+#Sun Mar 25 17:48:04 BRT 2018
+base.0=/home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

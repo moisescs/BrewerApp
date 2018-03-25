@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/18b01665e8bf946cdb0dfeeb702930a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/f9fc4f092f9afd0ef29f4d9abd18d1eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/e6780f7e94de345f132d3c5f23ca190c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f722fa0c3a8cdb3e0ce935d99f791bc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/f5365427223fdd040dc4c93bb3f3972e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/9c54ef78ad4dc2fd8604cf08a1899d7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2f872b8adbdc9e89e27b7551d7270f5c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/moises/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/83caf7e4ef98b02ec6f1be2c4ee9735e/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:5:5-19:19
+	android:supportsRtl
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:10:9-40
+activity#br.com.fernandosousa.brewerapp.MainActivity
+ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:15:27-74
+activity#br.com.fernandosousa.brewerapp.TelaInicialActivity
+ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:18:9-66
+	android:name
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml:18:19-54
+uses-sdk
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/18b01665e8bf946cdb0dfeeb702930a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/18b01665e8bf946cdb0dfeeb702930a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/f9fc4f092f9afd0ef29f4d9abd18d1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/f9fc4f092f9afd0ef29f4d9abd18d1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/e6780f7e94de345f132d3c5f23ca190c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/e6780f7e94de345f132d3c5f23ca190c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f722fa0c3a8cdb3e0ce935d99f791bc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/f722fa0c3a8cdb3e0ce935d99f791bc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/f5365427223fdd040dc4c93bb3f3972e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/f5365427223fdd040dc4c93bb3f3972e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/9c54ef78ad4dc2fd8604cf08a1899d7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/9c54ef78ad4dc2fd8604cf08a1899d7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2f872b8adbdc9e89e27b7551d7270f5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/moises/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/2f872b8adbdc9e89e27b7551d7270f5c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/moises/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/83caf7e4ef98b02ec6f1be2c4ee9735e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/moises/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/83caf7e4ef98b02ec6f1be2c4ee9735e/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/moises/AndroidStudioProjects/BrewerApp_Activity-master/app/src/main/AndroidManifest.xml
